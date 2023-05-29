@@ -8,7 +8,6 @@ import "package:flutter_catalogue/utils/routes.dart";
 import "package:velocity_x/velocity_x.dart";
 
 import "package:flutter_catalogue/models/catalogue.dart";
-import "package:flutter_catalogue/widgets/themes.dart";
 
 import "home_widgets/catalog_header.dart";
 import "home_widgets/catalog_list.dart";
