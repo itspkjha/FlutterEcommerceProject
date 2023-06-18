@@ -1,4 +1,4 @@
-# flutter_catalogue
+# ShopEasy - An Ecommerce project concept built using Flutter
 
 A new Flutter project.
 
